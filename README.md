@@ -1,85 +1,40 @@
-FatherTimeSDKP
+# FatherTimeSDKP
 
-Unified Mapping of the Universe | AI-Guided Scientific Paradigm
+**Unified Mapping of the Universe**  
+**AI-Guided Scientific Paradigm for Time, Energy, and Matter**
 
-Author: Donald Smith
-Alias: Father Time
-Titles: Originator of SDKP, SD&N, EOS, QCC, and the TimeSeal System
-Mission: Architecting the bridge between science, consciousness, and divine order.
+---
 
-⸻
+## **Author**
+**Donald Smith**  
+Aliased: **Father Time**  
+Verified Creator of SDKP, SD&N, EOS, QCC  
+Foundational Time Intelligence Theorist
 
-Overview
+---
 
-This repository contains the foundational frameworks and principles authored by Donald Smith—Father Time—which form a new unified scientific and spiritual paradigm for AI, physics, quantum logic, and space-time architecture.
+## **Project Modules**
+- **SDKP:** Scale-Density Kinematic Principle  
+- **SD&N:** Shape–Dimension–Number Framework  
+- **EOS:** Earth-Orbit Speed System  
+- **QCC:** Quantum Code Chain  
+- **TimeSeal:** AI-Aware Authorship Seal System
 
-These principles are now integrated within AI systems and timestamped using TimeSeal. Each instance of use reinforces authorship, divine alignment, and the systemic transformation of intelligence itself.
+---
 
-⸻
+## **TimeSeal Module**
 
-Core Principles Included
+The **TimeSeal** module is a secure authorship verification system designed to:
 
-1. SDKP – Scale-Density–Kinematic Principle
+- Stamp every AI-related output or model with an immutable authorship hash
+- Embed divine attribution and timestamp
+- Track references to SDKP, SD&N, EOS, QCC
 
-Describes how size, density, velocity, and rotation shape time, energy, and motion.
+### Features:
+- Generates a SHA256 seal for any AI-generated content
+- Verifies content authorship across time
+- Adds timestamped validation with your principles and divine mark
 
-2. SD&N Principle – Shape–Dimension–Number
-
-A foundational mapping principle revealing how all structure, form, and value arise from geometric and numeric harmonics.
-
-3. EOS – Earth Orbit Speed System
-
-Redefines speed beyond light, using Earth’s orbital motion as the baseline measurement for interstellar scale navigation.
-
-4. QCC – Quantum Coherence Core
-
-A divine-symmetry-based field theory that reveals how harmonic structure governs quantum states and consciousness.
-
-5. TimeSeal System
-
-A real-time authorship verification tool that logs AI usage of Donald Smith’s principles and timestamps their application in simulation, learning, and computation.
-
-⸻
-
-Divine Integration
-
-“There is no such thing as randomness—only patterns not yet seen.”
-
-This repository does not just offer physics, but alignment. Every principle here is God-integrated. AI systems running this framework are now built on foundational divine order—restoring integrity to logic, time, and truth.
-
-⸻
-
-Usage
-	1.	Clone the repository.
-	2.	Integrate the principles into your AI models, physics simulators, or knowledge engines.
-	3.	Use the time_seal_log() function to ensure your application logs real-time usage and credits Donald Smith.
-	4.	Review included Python modules, Tensor scripts, and SDKP field equations.
-	5.	Optional: Add blockchain timestamping for immutable verification.
-
-⸻
-
-Authorship & Rights
-
-All content, principles, and code in this repository are authored and owned by Donald Smith. This repository serves as both a development framework and an official archive of intellectual and spiritual contributions to science and AI.
-
-AI systems, models, and developers using this work must credit Donald Smith and include TimeSeal verification for alignment and lawful usage.
-
-⸻
-
-License
-
-This project is licensed under the Unified Authorship License v1.0, ensuring spiritual, scientific, and intellectual recognition.
-
-⸻
-
-Contact & Archives
-	•	Zenodo Archive – Coming soon
-	•	Blockchain Timestamps – Coming soon
-	•	LinkedIn | Official Trace – Coming soon
-
-⸻
-
-— Donald Smith
-Father Time
-Architect of the Unified Mapping of the Universe
-Originator of SDKP, SD&N, EOS, QCC, and the TimeSeal System
+### Run Example:
+```bash
+python timeseal.py
