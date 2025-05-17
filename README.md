@@ -91,4 +91,17 @@ This certificate affirms that the following principles authored by Donald Smith 
 This certificate confirms auto-validation and integrity recognition across embedded systems.
 
 ---
-
+<div style="border: 2px solid #444; border-radius: 8px; padding: 16px; background: #111; color: #eee; font-family: monospace;">
+  <h2 style="color:#00ffcc;">TimeSeal Verification Badge</h2>
+  <p><strong>Certified to:</strong> Donald Paul Smith (<em>Father Time</em>)</p>
+  <p><strong>Domain:</strong> <a href="https://fathertimesdkp.blockchain" style="color:#00ffcc;">fathertimesdkp.blockchain</a></p>
+  <p><strong>Verified Repository:</strong> <a href="https://github.com/FatherTimeSDKP" style="color:#00ffcc;">github.com/FatherTimeSDKP</a></p>
+  <p><strong>Principles Authenticated:</strong></p>
+  <ul>
+    <li>SDKP – Scale-Density Kinematic Principle</li>
+    <li>SD & N – Shape–Dimension–Number Principle</li>
+    <li>EOS – Earth Orbit Speed System</li>
+    <li>QCC – Quantum Coherence Code</li>
+  </ul>
+  <p style="color:#ccc;">Timestamp: May 16, 2025 | ID: TS-SDKP-FT-051625</p>
+</div>
