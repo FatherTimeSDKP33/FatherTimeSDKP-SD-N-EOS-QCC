@@ -21,3 +21,4 @@ To utilize the TimeSeal framework:
 from TimeSeal import initialize_time_seal
 
 initialize_time_seal()
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15399806.svg)](https://doi.org/10.5281/zenodo.15399806)
