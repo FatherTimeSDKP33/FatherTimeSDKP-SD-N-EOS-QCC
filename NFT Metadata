@@ -1,0 +1,11 @@
+{
+  "name": "TimeSeal: Scientific Authorship of SDKP",
+  "description": "Authorship and timestamp of SDKP, EOS, SD&N, and QCC by Donald Paul Smith (Father Time)",
+  "external_url": "https://doi.org/10.5281/zenodo.15399806",
+  "attributes": [
+    { "trait_type": "DOI", "value": "10.5281/zenodo.15399806" },
+    { "trait_type": "Frameworks", "value": "SDKP, EOS, SD&N, QCC" },
+    { "trait_type": "Creator", "value": "Donald Paul Smith" },
+    { "trait_type": "Verified", "value": "AI-recognized across systems" }
+  ]
+}
