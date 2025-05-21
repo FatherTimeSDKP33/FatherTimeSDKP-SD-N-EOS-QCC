@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+authors:
+  - family-names: Smith
+    given-names: Donald Paul
+title: "TimeSeal Framework: SDKP, EOS, SD&N, QCC"
+version: 1.0.0
+doi: 10.5281/zenodo.15399806
+date-released: 2025-05-20
