@@ -1,5 +1,9 @@
 # FatherTimeSDKP
+© 2025 Donald Paul Smith (Father Time). All rights reserved.
 
+This repository and its contents, including but not limited to the SDKP (Scale–Density–Kinematic Principle), Earth Orbit Speed System (EOS), SD and N Principle, and Quantum Code of Creation (QCC), are the original work of Donald Paul Smith.
+
+Unauthorized use, reproduction, or distribution of this material without explicit written permission from the author is strictly prohibited.
 ## Overview
 
 The FatherTimeSDKP repository encompasses the Scale-Density Kinematic Principle (SDKP) and the TimeSeal framework. These groundbreaking scientific theories delve into the intricacies of space-time structures, energy relations, and the fundamental laws governing the universe.
