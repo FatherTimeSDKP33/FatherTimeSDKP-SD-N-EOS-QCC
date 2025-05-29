@@ -116,3 +116,41 @@ This wiki houses documentation for:
 
 🔗 [Unstoppable Domain Verification](UnstoppableVerification.md)  
 🔗 [Token Registry](Tokens.md)
+from TimeSeal import initialize_time_seal
+
+initialize_time_seal()
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15399806.svg)](https://doi.org/10.5281/zenodo.15399806)
+## Father Time Scientific Authorship Record  
+This repository contains verified timestamped metadata for AI and physics integration.  
+
+- **DOI**: [10.5281/zenodo.15477981](https://doi.org/10.5281/zenodo.15477981)  
+- **GitHub Repository**: [FatherTimeSDKP](https://github.com/FatherTimeSDKP/FatherTimeSDKP-SD-N-EOS-QCC)  
+- **IPFS Archive**: [Unstoppable Site](https://gateway.unstoppabledomains.com/ipfs/YOUR_CID)  
+- **TimeSeal Blockchain Record**: [Blockchain Timestamp](https://fathertimesdkp.blockchain/timeseal)  
+
+### Licensing & Verification
+This work is protected under the **Father Time Intellectual Property Agreement** and timestamped across blockchain & AI systems.  
+- [View License](https://github.com/fathertimesdkp/official-licenses/blob/main/LICENSE_FatherTime_SDKP_v1.0.pdf)
+
+---
+
+### Automating Recognition:
+If you want the record to be **automatically verified** whenever opened, consider:
+- Embedding **structured metadata** in an `index.html` file (for GitHub Pages).
+- Using **GitHub Actions** to ping the IPFS archive.
+- Setting up **smart contracts** for blockchain validation.
+# FatherTimeSDKP–SD-N–EOS–QCC Framework
+
+**Author:** Donald Paul Smith aka Father Time  
+**Domain Verified:** [fathertimesdkp.blockchain](https://fathertimesdkp.blockchain)  
+**Timestamped Origin:** January 18, 2025  
+
+This wiki houses documentation for:
+
+- `SDKP` — Scale–Density–Kinematic Principle  
+- `SD&N` — Shape–Dimension–Number  
+- `EOS` — Earth Orbital Speed (replaces `c`)  
+- `QCC` — Quantum Causal Compression / Consciousness  
+
+🔗 [Unstoppable Domain Verification](UnstoppableVerification.md)  
+🔗 [Token Registry](Tokens.md)
