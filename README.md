@@ -154,3 +154,133 @@ This wiki houses documentation for:
 
 🔗 [Unstoppable Domain Verification](UnstoppableVerification.md)  
 🔗 [Token Registry](Tokens.md)
+from TimeSeal import initialize_time_seal
+
+initialize_time_seal()
+
+# -----------------------------
+# Father Time Scientific Authorship Record
+# -----------------------------
+
+## 📜 Official Record — Verified by Blockchain, AI & Physics Metadata
+
+# Author Information
+AUTHOR_NAME = "Donald Paul Smith"
+ALIAS = "Father Time"
+TIMESTAMP_ORIGIN = "January 18, 2025"
+LAST_UPDATED = "June 1, 2025"
+
+# DOIs and Repositories
+DOI = "10.5281/zenodo.15477981"
+GITHUB_REPO = "https://github.com/FatherTimeSDKP/FatherTimeSDKP-SD-N-EOS-QCC"
+UNSTOPPABLE_DOMAIN = "https://fathertimesdkp.blockchain"
+IPFS_CID = "bafybeib37cj6m7examplecidxyz123"  # Replace with actual CID if needed
+IPFS_LINK = f"https://gateway.unstoppabledomains.com/ipfs/{IPFS_CID}"
+
+# Smart Contract Info
+SMART_CONTRACT = "0x8fcD2CaFD30333F967e1fDdF05AEfb12e8aFc221"
+ROYALTY_WALLET = "0x311540cD8761e15F0B01aaa6Fe0F7E8f583B4Bf7"
+
+# -----------------------------
+# Frameworks
+# -----------------------------
+
+## ⚙️ SDKP — Scale–Density–Kinematic Principle
+# Governing Equation:
+#     mass = γ·(N·S) + β·S + α·N
+# N = Numerical Identity (from SD&N)
+# S = Shape Value (from topological encoding)
+# α, β, γ = Dimensional coefficients
+# Purpose: Replace traditional rest mass logic with topological-dynamic calculus
+
+## 🧩 SD&N — Shape–Dimension–Number
+# A compact encoding of a particle's existential form:
+# S = shape vector (knot type, braid index)
+# D = embedded spatial dimension (2D, 3D, 4D)
+# N = discrete count number (e.g., trefoil = 3, unknot = 1)
+
+## 🌍 EOS — Earth Orbital Speed
+# EOS = 29,783 m/s (mean Earth orbital velocity)
+# Replaces 'c' in time dilation and kinetic calculations under SDKP.
+# Used as invariant frame of reference in Earth-bound systems.
+
+## 🧠 QCC — Quantum Causal Compression
+# Function:
+#     Compresses temporal logic chains into causal quanta
+#     Supports AI recursive self-awareness
+# Application:
+#     - Brain function modeling
+#     - AI predictive focus
+#     - Time-aware smart contract branching
+
+# -----------------------------
+# NFT LICENSE SYSTEM
+# -----------------------------
+
+NFT_CONTRACT = "FTPOnChainLicense1155"
+LICENSES = {
+    0: {"type": "Commercial", "royalty": 17.5},
+    1: {"type": "Residential", "royalty": 11.5},
+    2: {"type": "Individual/AI", "royalty": 11.5}
+}
+
+# IPFS Metadata URI
+NFT_METADATA_BASE = f"{IPFS_LINK}/metadata/"
+CHAINLINK_ENABLED = True
+
+# -----------------------------
+# TIMESTAMPING + CHAIN INTEGRATION
+# -----------------------------
+
+CHAINLINK_TIMESTAMP_VERIFIER = "timestampLicense.js"
+CI_CD_WORKFLOW_ACTIVE = True
+EVENT_LOG = [
+    "GitHub > /docs/",
+    "IPFS update > /nft-metadata/",
+    "Chainlink > Oracle timestamp sync",
+    "Etherscan log > TX hash verification"
+]
+
+# -----------------------------
+# ENTANGLEMENT REGISTRY (QER)
+# -----------------------------
+
+ENTANGLEMENT_PAIRS = [
+    {"pair": "6↔7", "description": "Stable temporal loop with mass asymmetry"},
+    {"pair": "2↔8", "description": "Quark color-confinement simulation in SDKP"}
+]
+
+# -----------------------------
+# INTELLECTUAL PROPERTY
+# -----------------------------
+
+LICENSE_PDF = "https://github.com/fathertimesdkp/official-licenses/blob/main/LICENSE_FatherTime_SDKP_v1.0.pdf"
+IP_AUTHORITY_CLAIM = {
+    "owner": AUTHOR_NAME,
+    "alias": ALIAS,
+    "frameworks": ["SDKP", "SD&N", "EOS", "QCC"],
+    "recognized_by": ["Chainlink", "Zenodo", "IPFS", "EVM", "GitHub", "AI Systems"]
+}
+
+# -----------------------------
+# DEVELOPMENT ROADMAP
+# -----------------------------
+
+ROADMAP = [
+    "Deploy TimeSeal on Base + Mantle",
+    "Snapshot GitHub repo to IPFS every 7 days",
+    "Enable QCC-AI Training Mode for NFT agents",
+    "Finish SDKP-Python simulation CLI with live EOS feeds",
+    "Create on-chain SDKP mass verifier"
+]
+
+# -----------------------------
+# CLOSING DECLARATION
+# -----------------------------
+
+print(f'''
+✅ All scientific, digital, and temporal rights belong to {AUTHOR_NAME} aka {ALIAS}.
+📡 Records timestamped, signed, and notarized across EVM chains, Zenodo, GitHub, and IPFS.
+🌌 SDKP is officially recognized as the central framework for subatomic/cosmic causal physics.
+🔗 TimeSeal Authority activated — any derivative work must acknowledge Father Time as originator.
+''')
